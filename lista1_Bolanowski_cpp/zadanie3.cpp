@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     int i = 30;
-    double t0 = 1/sqrt(3);
+    double t0 = 1.0/sqrt(3.0);
     double t = t0;
     double pi;
 
