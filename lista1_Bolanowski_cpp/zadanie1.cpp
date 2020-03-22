@@ -10,7 +10,7 @@ int main()
     for(int i=1; i<=n; i++)
     {
         silnia = silnia*i;
-        cout << i<<"! = "<<silnia<< " ";
+        cout << i<<"! = "<<silnia<< " " <<endl;
     }
 
     return 0;
